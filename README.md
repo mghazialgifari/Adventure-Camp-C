@@ -10,5 +10,5 @@
 
 **Program ini dapat menampilkan daftar peralatan, menghitung biaya sewa berdasarkan jumlah unit dan lama penyewaan, memberikan diskon otomatis, menampilkan struk, serta mencatat riwayat transaksi selama program berjalan.**
 
-##Hasilprogram
+##Hasil Program
 ![Adventure Camp](Screenshot.png)
