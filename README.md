@@ -1,7 +1,7 @@
 ##Identitas
 Nama: Muhammad Ghazi Algifari
 
-Nin: C2583207001
+Nim: C2583207001
 
 Nama Proyek: Adventure Camp
 
